@@ -1,0 +1,15 @@
+{
+  "android": {
+    "icon": {
+      "source": "icon.jpg"
+    },
+    "iconRound": {
+      "source": "icon_round.png"
+    }
+  },
+  "ios": {
+    "icon": {
+      "source": "icon.jpg"
+    }
+  }
+}
